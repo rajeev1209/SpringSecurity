@@ -1,0 +1,12 @@
+package com.learn.concepts.spring_security.controller;
+
+/**
+ * This class contains the different arthematic operations
+ * @author Saurav Sahu
+ *
+ */
+public class Demo {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
